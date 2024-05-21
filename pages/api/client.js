@@ -1,6 +1,7 @@
 
-import { collection, addDoc, doc, getDoc, getDocs, updateDoc, deleteDoc } from "firebase/firestore";
 import { database } from "../../services/firebase";
+import { collection, addDoc, doc, getDoc, getDocs, updateDoc, deleteDoc } from "firebase/firestore";
+
 const dbInstance = collection(database, "usuarios");
 
 export default async function handler(req, res) {

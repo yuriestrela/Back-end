@@ -1,0 +1,10 @@
+
+const firebaseConfig = {
+  apiKey: "AIzaSyArd6H5A-VsAU0flojjjapiCIBCtyQCnbc",
+  authDomain: "criando-crud.firebaseapp.com",
+  projectId: "criando-crud",
+  storageBucket: "criando-crud.appspot.com",
+  messagingSenderId: "648633060501",
+  appId: "1:648633060501:web:a5c05d32ff43fab98edf9c",
+  measurementId: "G-8V2Q9294Q4"
+};
